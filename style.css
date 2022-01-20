@@ -1,22 +1,11 @@
 body {
     text-align: center;
-    background-color: black;
+    background-image: linear-gradient( to bottom, aliceblue , violet);
+	font-family: 'Indie Flower', cursive;
 }
-
 h1 {
     font-size: 40px;
-    font-family: sans-serif;
-    font-weight: 300;
 }
-
-#intro{
-    background-color: rgb(182, 220, 238);
-}
-
-#origami1{
-   background-color:lightcoral;
-}
-
 #contact_1{
     background-color: cornflowerblue;
 }
